@@ -1,5 +1,6 @@
+# DASH INTERFAZ INTERACTIVA DE SERIES FINANCIERAS EN PYTHON
 
-El contenido del archivo `README.md` se vería así:
+El contenido de este proyecto tiene un archivo `app.py`
 
 ```markdown
 # Proyecto
